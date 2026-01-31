@@ -1,12 +1,12 @@
 import React from 'react';
-import logo from './logo.svg';
+import icon_tr from './icon_tr.png';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={icon_tr} className="App-logo" alt="icon" />
         <p>
           荻野 将拓 / Masahiro Ogino
         </p>
